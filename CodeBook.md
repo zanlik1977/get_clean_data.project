@@ -40,7 +40,8 @@ There are 6 activities:
                 - STANDING
                 - LAYING
             
-            
+***The rest of the variables are normalized to have values between -1 and 1 (no units).***
+
 #### 3. **mean(tBodyAcc-mean-X)**  : numeric           
 
 Mean of time domain body acceleration mean along X-axis. 
